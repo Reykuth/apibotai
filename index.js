@@ -101,6 +101,4 @@ async function handleEvent(event) {
 
 app.listen(process.env.PORT || 3000, () => {
   console.log('listening on ' + (process.env.PORT || 3000));
-});
-
-รันในเว็บนี้ยังไง https://dashboard.render.com/ 
+}); 
